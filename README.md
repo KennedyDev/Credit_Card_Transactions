@@ -1,2 +1,2 @@
 # Credit_Card_Transactions
-Determine is the credit card transactions are fradulent or non fradulent.
+Determine the fradulent credit card transactions from data containing non fradulent transcations
